@@ -12,3 +12,6 @@ def count_a(word)
 end
 
 puts count_a("application")
+puts count_a("bike")         
+puts count_a("Arthur")       
+puts count_a("Aardvark")     
