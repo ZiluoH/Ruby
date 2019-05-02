@@ -1,0 +1,1 @@
+foods = ['pizza', 'sushi', 'burgers', 'fries', 'ramen']
